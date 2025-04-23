@@ -1,0 +1,15 @@
+! Operadores relacionais => comparar
+
+% == igual
+% < >
+% >= <=
+% ==  igualdade  [valor]
+% === Estritamente igual a [valor e tipo]
+% !=  Diferença    
+% 
+------------------------------------------------------------
+      Validação
+       isNaN(10) --false-- verfica se não é um numero
+        isNaN('10') --- false
+        isNaN('teste') --- true
+        !isNaN(100) --- true --- verifica se é um numero

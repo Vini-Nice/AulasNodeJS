@@ -10,7 +10,7 @@ let idade= 18;
 let peso= 80;
 let altura= 1.80;
 let imc= peso/(altura*altura);
-console.log(`Seu IMC e ${imc}`);
+console.log(`Seu IMC e ${imc.toFixed(2)}`);
 
 // Temperatura
 let Celsius= 20;

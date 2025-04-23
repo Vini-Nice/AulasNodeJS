@@ -1,0 +1,17 @@
+* 
+
+Estrutura de repetição
+Laços/ Loop 
+
+for -> Quando sabemos previamente a quantidade de interações [repetição]
+
+while -> Quando não sabemos previamente a quantidade de interações [repetição]
+
+for (expressão de inicialização ; expressão de teste ; incremento)
+
+
+
+
+i = seu valor original + 3
+
+Operadores atalho
